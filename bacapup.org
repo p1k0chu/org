@@ -221,6 +221,9 @@ Ride a skeleton horse on the ocean floor (Monsters) by xMrPolx
 *** The Great Hunger
 Survive a full day with your hunger bar completely emptied
 
+*** Waypoint
+write a coordinate to a structure in a book
+
 ** Bad suggestions
 Rejected suggestions. But funny, so might be added when run out of
 ideas.
