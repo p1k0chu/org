@@ -161,6 +161,11 @@ Sonsch
 
 *** DONE kill all mobs with anvil
 
+** Other tasks
+
+*** TODO Remove advancement 'get raid of it'
+and delete any unneeded mixins or code related.
+
 ** Suggestions
 Some advancement suggestions im still considering...
 
