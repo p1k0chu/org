@@ -171,6 +171,9 @@ there are old names like ServerPlayerEntity from yarn mappings, before
 i migrated to official mappings (just ServerPlayer). much more stuff,
 im lazy for this.
 
+*** TODO move this is not cookie clicker to FarmingTabGenerator
+it is already in farming tab.
+
 ** Suggestions
 Some advancement suggestions im still considering...
 
