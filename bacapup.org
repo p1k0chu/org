@@ -166,6 +166,11 @@ Sonsch
 *** TODO Remove advancement 'get raid of it'
 and delete any unneeded mixins or code related.
 
+*** TODO Rename mixins to match new mappings
+there are old names like ServerPlayerEntity from yarn mappings, before
+i migrated to official mappings (just ServerPlayer). much more stuff,
+im lazy for this.
+
 ** Suggestions
 Some advancement suggestions im still considering...
 
