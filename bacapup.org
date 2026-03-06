@@ -3,7 +3,7 @@ is a bac addon
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]]
 [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [23/40]
+** Advancements to do [24/40]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -79,12 +79,18 @@ get a breeze to activate 9 redstone components at the same time
 
 *** TODO attempt to build aether portal
 
-*** TODO Double click on an empty slot [1/3]
+*** DONE Double click on an empty slot [3/3]
 [[https://discord.com/channels/419383460600348673/738946989726760980/1478859542505979944][Discord]]
 
-**** TODO Check if this works on a server with ping
+**** DONE Check if this works on a server with ping
+:LOGBOOK:
+CLOCK: [2026-03-06 Fri 21:09]--[2026-03-06 Fri 21:21] =>  0:12
+:END:
 
-**** TODO Profile with spark
+**** DONE Profile with spark
+:LOGBOOK:
+CLOCK: [2026-03-06 Fri 21:27]--[2026-03-06 Fri 21:37] =>  0:10
+:END:
 
 **** DONE Code it
 
