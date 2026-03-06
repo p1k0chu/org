@@ -1,0 +1,225 @@
+
+* Bacapup
+is a bac addon
+[[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]]
+[[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
+
+** Advancements to do [23/43]
+Advancements that will be added.
+
+*** TODO Bedrock advancements
+
+**** TODO Time for Stew - Give someone a suspicious stew.
+
+**** TODO Smelt Everything - Connect 3 Chests to a single Furnace using 3 Hoppers.
+
+**** TODO Freight Station - Use a Hopper to move an item from a Chest Minecart to a Chest.
+
+*** TODO good luck killing this one - damage a villager with absorption
+[[https://discord.com/channels/419383460600348673/738946989726760980/1474455422831427594][Discord]]
+
+*** TODO maxing out the amount of banners renderable on a map.
+(40 or 400) banner markers. [[https://discord.com/channels/419383460600348673/738946989726760980/1471863779347402946][Discord]]
+
+*** TODO You Know This Game Has Open World, Right?
+stay in one chunk for a full duration
+
+**** TODO come up with duration
+
+*** TODO Rage baiter
+fish warden several times for his angry value go from 0 to 150
+- zintux
+
+*** TODO power a beacon with all mineral items
+
+*** TODO Shoulder pals
+Travel 100 blocks with two parrot on your shoulders.
+by Redpid42
+
+*** TODO Use 5 totems within 10 seconds
+
+*** TODO use every fuel in a furnace
+
+*** TODO I Am Speed
+travel 1,000 blocks in a boat on blue ice in the Nether
+by xMrPolx
+
+*** TODO Creativity Is All I Need
+Use every banner pattern on one banner.
+(Building, after "Fuit of the Looms")
+by xMrPolx
+
+*** TODO Dehydration
+Dry a sponge in a furnace, but not without taking the water back.
+by xMrPolx
+
+*** TODO Conduel
+Make conduit kill a mob
+
+*** TODO Justice but its an anvil
+
+*** TODO Short circuit
+get a breeze to activate 9 redstone components at the same time
+
+*** TODO attempt to build aether portal
+
+*** TODO Inception
+Push a piston with a piston, then pull the original piston with that
+piston.
+
+**** TODO RENAME INCEPTION
+
+*** TODO Super Sonic
+Use Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s
+
+**** TODO RENAME SUPER SONIC
+
+*** TODO Map Room
+Place 9 fully explored, adjacent map items into 9 item frames in a 3
+by 3 square.
+
+**** TODO RENAME MAP 
+
+*** TODO Double click on an empty slot [1/3]
+[[https://discord.com/channels/419383460600348673/738946989726760980/1478859542505979944][Discord]]
+
+**** TODO Check if this works on a server with ping
+
+**** TODO Profile with spark
+
+**** DONE Code it
+
+*** DONE Receive a gift from a cat
+from bedrock
+
+*** DONE Receive every gift from a cat
+from bedrock
+
+*** DONE Do It For The Frame
+Use a glass pane in a cartography table to lock a map, preventing it
+from updating (name by terminxa, idea by pointy)
+
+*** DONE When Pigs Fly
+Use a saddle to ride a pig, and then have the pig get hurt from fall
+damage while riding it.
+
+*** DONE Disenchanted
+Use a Grindstone to get experience from an enchanted item.
+
+*** DONE Alternative Fuel
+Power a furnace with a kelp block
+
+*** DONE Super Fuel
+Power a furnace with lava
+
+*** DONE Beam Me Up
+Teleport over 100 meters from a single throw of an Ender Pearl
+
+*** DONE Plethora of Cats
+Befriend twenty stray cats
+
+*** DONE smelt leaves using a leaf litter to get leaf litter
+
+*** DONE Leader of the Pack
+Befriend five wolves.
+
+*** DONE buy 1000 (or more) emerald from villagers
+
+*** DONE Forged by Flesh
+Retrieve an iron ingot from a defeated zombie. by DCMii
+
+*** DONE Get Raid Of It
+Drink milk to remove the Bad Omen effect; charlesMB
+
+*** DONE Trash Bin
+Throw an item into a cactus (Farming, after Spikey) by xMrPolx
+
+*** DONE 10 end crystals respawn dragon
+
+*** DONE Can you hear it from here?
+ring a bell with a bow from ridiculous distance; name by
+insertanicknamehere
+
+*** DONE Be near sheep while evoker changes it color from blue to red
+
+*** DONE Get all possible items from sus sand or gravel (it is hard)
+
+*** DONE Fire Trick
+Light a campfire and a candle by shooting an arrow at them (Building) by xMrPolx
+
+*** DONE Maximum Coverage
+Fully expand a map
+
+*** DONE Paint it, red
+Fill a map of 128x128 blocks with Red Concrete or Red Wool. by Iwer
+Sonsch
+
+*** DONE kill all mobs with anvil
+
+** Suggestions
+Some advancement suggestions im still considering...
+
+*** Wikipedia
+Read the power signal of every possible block that can be read using a
+comparator. by xMrPolx
+
+*** throw everything at cactus
+
+*** Find a chest in an Ancient City with 4+ egapples
+
+*** Find endtherite
+Fully destroy main end island
+
+*** collector of death messages
+
+*** Kill the wither with an anvil :skull emoji:
+
+*** Visit 128 strongholds (just visit)
+
+*** Breed animals while they are in different dimensions
+should be possible but doesn't work because of MC bug, same for
+killing in different dimensions, etc
+
+**** TODO research if its even possible to *do*
+
+*** Enter a zombie village
+
+*** Find a fossil
+
+*** Find cactus tree in a trial chamber
+
+*** Water Balloons!
+Throw a splash water bottle to an enderman
+(Potions, after "Death by Magic")
+by xMrPolx
+
+**** TODO isn't this already a thing?
+
+*** Surface-to-air missile
+kill a flying mob with a tnt launched by kb2 spear
+
+*** It's not rocket science
+die to a rocket while flying; by deleted reddit user
+
+*** Pointy fishing
+Pull a falling pointed dripstone with a fishing rod; by
+insertanicknamehere
+
+*** Scubaleton Horse Diver
+Ride a skeleton horse on the ocean floor (Monsters) by xMrPolx
+
+*** The Great Hunger
+Survive a full day with your hunger bar completely emptied
+
+** Bad suggestions
+Rejected suggestions. But funny, so might be added when run out of
+ideas.
+
+*** smelt every product
+
+*** Try to lay on occupied bed
+impossible in single player.
+
+*** my shiza wakes up
+Use a bow to activate a dispenser that will shoot an arrow that will
+activate an autocrafter that will craft a bow
