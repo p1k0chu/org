@@ -1,10 +1,9 @@
-
 * Bacapup
 is a bac addon
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]]
 [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [23/43]
+** Advancements to do [23/40]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -14,6 +13,23 @@ Advancements that will be added.
 **** TODO Smelt Everything - Connect 3 Chests to a single Furnace using 3 Hoppers.
 
 **** TODO Freight Station - Use a Hopper to move an item from a Chest Minecart to a Chest.
+
+**** TODO Super Sonic
+Use Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s
+
+***** TODO RENAME SUPER SONIC
+
+**** TODO Inception
+Push a piston with a piston, then pull the original piston with that
+piston.
+
+***** TODO RENAME INCEPTION
+
+**** TODO Map Room
+Place 9 fully explored, adjacent map items into 9 item frames in a 3
+by 3 square.
+
+***** TODO RENAME MAP
 
 *** TODO good luck killing this one - damage a villager with absorption
 [[https://discord.com/channels/419383460600348673/738946989726760980/1474455422831427594][Discord]]
@@ -62,23 +78,6 @@ Make conduit kill a mob
 get a breeze to activate 9 redstone components at the same time
 
 *** TODO attempt to build aether portal
-
-*** TODO Inception
-Push a piston with a piston, then pull the original piston with that
-piston.
-
-**** TODO RENAME INCEPTION
-
-*** TODO Super Sonic
-Use Elytra to fly through a 1 by 1 gap while moving faster than 40 m/s
-
-**** TODO RENAME SUPER SONIC
-
-*** TODO Map Room
-Place 9 fully explored, adjacent map items into 9 item frames in a 3
-by 3 square.
-
-**** TODO RENAME MAP 
 
 *** TODO Double click on an empty slot [1/3]
 [[https://discord.com/channels/419383460600348673/738946989726760980/1478859542505979944][Discord]]
