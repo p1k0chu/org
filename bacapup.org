@@ -3,7 +3,7 @@ is a bac addon
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]]
 [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [24/40]
+** Advancements to do [25/40]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -74,10 +74,13 @@ Make conduit kill a mob
 
 *** TODO Justice but its an anvil
 
-*** TODO Short circuit
-get a breeze to activate 9 redstone components at the same time
-
 *** TODO attempt to build aether portal
+
+*** DONE Short circuit
+:LOGBOOK:
+CLOCK: [2026-03-07 Sat 00:11]--[2026-03-07 Sat 00:41] =>  0:30
+:END:
+get a breeze to activate 9 redstone components at the same time
 
 *** DONE Double click on an empty slot [3/3]
 [[https://discord.com/channels/419383460600348673/738946989726760980/1478859542505979944][Discord]]
