@@ -224,6 +224,9 @@ Survive a full day with your hunger bar completely emptied
 *** Waypoint
 write a coordinate to a structure in a book
 
+*** all the colors of the rainbow - fill a map in rainbow colors
+[[https://discord.com/channels/419383460600348673/1366124720306786406/1479586226221748415][Discord]]
+
 ** Bad suggestions
 Rejected suggestions. But funny, so might be added when run out of
 ideas.
