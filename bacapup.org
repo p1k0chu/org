@@ -238,6 +238,7 @@ write a coordinate to a structure in a book
 
 *** Speedunning riddle by rounduction
 [[https://discord.com/channels/419383460600348673/738946989726760980/1407768557881786409][Discord]]
+[[https://discord.com/channels/419383460600348673/1366124720306786406/1479883728963764274][honestlytzadok's rhymed version]]
 
 1. the first is to find a buried treasure without a map
 
@@ -247,7 +248,7 @@ write a coordinate to a structure in a book
    TODO what exactly does this require?
 3. the third is to trade with piglins while in a bastion
 4. the fourth is to pearl to a nether fortress
-5. the fifth is to leave on six-seven
+5. the fifth is to leave on six rods
 
    enter nether portal thats inside of fortress, while you have at
    least 6 rods
