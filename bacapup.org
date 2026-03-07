@@ -74,6 +74,44 @@ Make conduit kill a mob
 
 *** TODO Justice but its an anvil
 
+*** TODO Speedunning riddle by rounduction
+[[https://discord.com/channels/419383460600348673/738946989726760980/1407768557881786409][Discord]]
+[[https://discord.com/channels/419383460600348673/1366124720306786406/1479883728963764274][honestlytzadok's rhymed version]]
+
+1. the first is to find a buried treasure without a map
+
+   (open a bt without a map duh)
+2. the second is to build a portal using a bucket
+
+   TODO what exactly does this require?
+3. the third is to trade with piglins while in a bastion
+4. the fourth is to pearl to a nether fortress
+5. the fifth is to leave on six rods
+
+   enter nether portal thats inside of fortress, while you have at
+   least 6 rods
+6. the sixth is to measure your eyes
+
+   (enter + leave a boat, do not move and throw a pearl, and look at it)
+7. the seventh is to ice pie
+
+   enter a nether portal that leads straight into a stronghold
+8. the eight is to die
+
+   die or (in hardcore) take damage from a pearl while your bed is set
+   and next to you
+9. the ninth is post tree tree farm
+
+   literally build post tree tree farm. tip: the tree farm must be
+   post tree.
+10. the tenth, if you can achieve this, you will be +yo im feinberg yo
+    im feinberg yo im feinberg yo im feinberg yo im feinberg+ the goat
+
+    paper says: do a zero cycle
+
+    actually: detect real zero cycle (if dragon never perches and dies =
+    technically zero cycles??)
+
 *** DONE Short circuit
 :LOGBOOK:
 CLOCK: [2026-03-07 Sat 00:11]--[2026-03-07 Sat 00:41] =>  0:30
@@ -235,44 +273,6 @@ write a coordinate to a structure in a book
 
 *** all the colors of the rainbow - fill a map in rainbow colors
 [[https://discord.com/channels/419383460600348673/1366124720306786406/1479586226221748415][Discord]]
-
-*** Speedunning riddle by rounduction
-[[https://discord.com/channels/419383460600348673/738946989726760980/1407768557881786409][Discord]]
-[[https://discord.com/channels/419383460600348673/1366124720306786406/1479883728963764274][honestlytzadok's rhymed version]]
-
-1. the first is to find a buried treasure without a map
-
-   (open a bt without a map duh)
-2. the second is to build a portal using a bucket
-
-   TODO what exactly does this require?
-3. the third is to trade with piglins while in a bastion
-4. the fourth is to pearl to a nether fortress
-5. the fifth is to leave on six rods
-
-   enter nether portal thats inside of fortress, while you have at
-   least 6 rods
-6. the sixth is to measure your eyes
-
-   (enter + leave a boat, do not move and throw a pearl, and look at it)
-7. the seventh is to ice pie
-
-   enter a nether portal that leads straight into a stronghold
-8. the eight is to die
-
-   die or (in hardcore) take damage from a pearl while your bed is set
-   and next to you
-9. the ninth is post tree tree farm
-
-   literally build post tree tree farm. tip: the tree farm must be
-   post tree.
-10. the tenth, if you can achieve this, you will be +yo im feinberg yo
-    im feinberg yo im feinberg yo im feinberg yo im feinberg+ the goat
-
-    paper says: do a zero cycle
-
-    actually: detect real zero cycle (if dragon never perches and dies =
-    technically zero cycles??)
 
 *** AA%
 Breed 10 animals, kill 15 hostile mobs, get a wither skeleton head,
