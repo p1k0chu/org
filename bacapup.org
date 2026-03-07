@@ -1,7 +1,7 @@
 * Bacapup
 is a bac addon
-[[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]]
-[[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
+
+[[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
 ** Advancements to do [25/40]
 Advancements that will be added.
