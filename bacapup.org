@@ -245,13 +245,6 @@ killing in different dimensions, etc
 
 *** Find cactus tree in a trial chamber
 
-*** Water Balloons!
-Throw a splash water bottle to an enderman
-(Potions, after "Death by Magic")
-by xMrPolx
-
-**** TODO isn't this already a thing?
-
 *** Surface-to-air missile
 kill a flying mob with a tnt launched by kb2 spear
 
