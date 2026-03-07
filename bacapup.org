@@ -74,8 +74,6 @@ Make conduit kill a mob
 
 *** TODO Justice but its an anvil
 
-*** TODO attempt to build aether portal
-
 *** DONE Short circuit
 :LOGBOOK:
 CLOCK: [2026-03-07 Sat 00:11]--[2026-03-07 Sat 00:41] =>  0:30
@@ -290,6 +288,8 @@ Get stung by a bee that has travelled more than 1 kilometer from its nest
 D. E. T. E. C. T. A. B. L. E. (easily) (as explained [[https://discord.com/channels/419383460600348673/1366124720306786406/1479841304287645800][here]])
 
 [[https://discord.com/channels/419383460600348673/738946989726760980/1417524911827714148][Discord]]
+
+*** attempt to build aether portal
 
 ** Bad suggestions
 Rejected suggestions. But funny, so might be added when run out of
