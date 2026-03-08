@@ -31,9 +31,6 @@ by 3 square.
 
 ***** TODO RENAME MAP
 
-*** TODO good luck killing this one - damage a villager with absorption
-[[https://discord.com/channels/419383460600348673/738946989726760980/1474455422831427594][Discord]]
-
 *** TODO maxing out the amount of banners renderable on a map.
 (40 or 400) banner markers. [[https://discord.com/channels/419383460600348673/738946989726760980/1471863779347402946][Discord]]
 
@@ -219,6 +216,9 @@ Some advancement suggestions im still considering...
 *** Wikipedia
 Read the power signal of every possible block that can be read using a
 comparator. by xMrPolx
+
+*** good luck killing this one - damage a villager with absorption
+[[https://discord.com/channels/419383460600348673/738946989726760980/1474455422831427594][Discord]]
 
 *** throw everything at cactus
 
