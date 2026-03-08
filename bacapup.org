@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [25/40]
+** Advancements to do [26/39]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -66,9 +66,6 @@ by xMrPolx
 Dry a sponge in a furnace, but not without taking the water back.
 by xMrPolx
 
-*** TODO Conduel
-Make conduit kill a mob
-
 *** TODO Justice but its an anvil
 
 *** TODO Speedunning riddle by rounduction
@@ -108,6 +105,9 @@ Make conduit kill a mob
 
     actually: detect real zero cycle (if dragon never perches and dies =
     technically zero cycles??)
+
+*** DONE Conduel
+Make conduit kill a mob
 
 *** DONE Short circuit
 :LOGBOOK:
