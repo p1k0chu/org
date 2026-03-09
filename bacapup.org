@@ -211,6 +211,12 @@ im lazy for this.
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
 
+*** TODO Update from 1.21.5 to 1.21.11
+
+**** DONE Update mod
+
+**** TODO Add missing new mobs/items to advancements
+
 ** Suggestions
 Some advancement suggestions im still considering...
 
