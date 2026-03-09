@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [27/39]
+** Advancements to do [28/39]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -38,8 +38,6 @@ by 3 square.
 stay in one chunk for a full duration
 
 **** TODO come up with duration
-
-*** TODO power a beacon with all mineral items
 
 *** TODO Shoulder pals
 Travel 100 blocks with two parrot on your shoulders.
@@ -101,6 +99,8 @@ by xMrPolx
 
     actually: detect real zero cycle (if dragon never perches and dies =
     technically zero cycles??)
+
+*** DONE power a beacon with all mineral items
 
 *** DONE Rage baiter
 fish warden several times for his angry value go from 0 to 150
