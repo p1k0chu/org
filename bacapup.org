@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [28/41]
+** Advancements to do [28/42]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -106,6 +106,8 @@ by xMrPolx
 silk touch makes this easy obv
 
 possibly add version forcing to not use silk touch, but less than 64
+
+*** TODO polyglot - own a parrot that speaks like every mob
 
 *** DONE power a beacon with all mineral items
 
