@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [28/42]
+** Advancements to do [28/43]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -108,6 +108,8 @@ silk touch makes this easy obv
 possibly add version forcing to not use silk touch, but less than 64
 
 *** TODO polyglot - own a parrot that speaks like every mob
+
+*** TODO intentional advancement design
 
 *** DONE power a beacon with all mineral items
 
@@ -307,6 +309,65 @@ deal over 10k damage to a creaking just for it to be unphased
 by coolgirl
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406/1480240833335660720][Discord]]
+
+*** play in every language for 15 minutes
+maybe if i add this they'll stop suggesting it
+
+*** Keeping the streets clean - defeat a pillager patrol party
+[[https://discord.com/channels/419383460600348673/738946989726760980/1446201076733968529][Discord]]
+
+*** What a Waste - Craft 2 full durability netherite hoes together
+[[https://discord.com/channels/419383460600348673/738946989726760980/1446536255436226622][Discord]]
+
+*** cancel raid omen by going to the nether
+
+*** make ravager kill itself
+[[https://discord.com/channels/419383460600348673/1441440209878122507/1442632231523979355][One of discord suggestions]]
+
+*** GET DOWN MISTER PRESIDENT
+[[https://discord.com/channels/419383460600348673/738946989726760980/1442360311448342658][Discord]]
+
+*** Jump a 3 block long neo jump
+[[https://discord.com/channels/419383460600348673/738946989726760980/1418419417494192209][Discord]]
+
+*** break things with ub3
+[[https://discord.com/channels/419383460600348673/738946989726760980/1416065579378413659][Discord]]
+
+*** You wind, I win
+Throw a wind charge to activate a dispenser that shoots you with a wind charge back
+
+[[https://discord.com/channels/419383460600348673/738946989726760980/1411778195153490061][Discord]]
+
+*** go back to your last death location and plant a wither rose
+[[https://discord.com/channels/419383460600348673/738946989726760980/1365469401570345072][Discord]]
+
+*** 4 chicken from thrown egg
+
+*** Purgatory
+create an infinite loop by feeding gold nuggets from a gold ingot autocrafter into another autocrafter that turns it back into ingots and then puts it back in the first
+
+[[https://discord.com/channels/419383460600348673/738946989726760980/1164661056816300039][Discord]]
+
+*** Airplane Mode - Send a chat message while falling
+[[https://discord.com/channels/419383460600348673/738946989726760980/1130218532257406986][Discord]]
+
+*** did you not recognize me? - let the piglin kill the zombified piglin
+[[https://discord.com/channels/419383460600348673/738946989726760980/1128114176724848791][Discord]]
+
+you have to get piglin to aggro on you and stand behing zombie piglin,
+when piglin kills it the player its aggroed on gets the advancement
+
+*** zombie break door.
+
+*** Spain.
+[[https://discord.com/channels/419383460600348673/738946989726760980/1001711104700981278][Discord]]
+
+*** Were wolf
+slay a wolf within 10 seconds of midnight on a full moon
+
+[[https://discord.com/channels/419383460600348673/738946989726760980/900427605625421905][Discord]]
+
+*** throw a wither in void
 
 ** Bad suggestions
 Rejected suggestions. But funny, so might be added when run out of
