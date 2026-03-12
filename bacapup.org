@@ -404,3 +404,8 @@ impossible in single player.
 *** my shiza wakes up
 Use a bow to activate a dispenser that will shoot an arrow that will
 activate an autocrafter that will craft a bow
+
+** Trophy ideas but idk for what
+
+*** Potion of Explode - explodes
+explodes when you drink it :3
