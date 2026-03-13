@@ -392,6 +392,23 @@ hidden, so you get it accidentally
 
 *** brew every potion
 
+*** You've Got Weird Habits
+hidden
+
+punch blocks without breaking them until you get this adv
+
+*** Jet Fuel isnt that Hot - explode 1000 blocks with tnt
+[[https://discord.com/channels/419383460600348673/738946989726760980/1481974440668565504][Discord]]
+
+*** kill mobs named after server members using anvil
+any type of mob, just named.
+
+this one's bad not because its hard to code or anything, just stupid
+and annoying.
+
+discord api wont let you get a list of server member last time i
+checked, but theres rep leaderboards and msg count leaderboard
+
 ** Bad suggestions
 Rejected suggestions. But funny, so might be added when run out of
 ideas.
