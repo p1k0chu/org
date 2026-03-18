@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [28/44]
+** Advancements to do [28/45]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -114,6 +114,14 @@ possibly add version forcing to not use silk touch, but less than 64
 *** TODO Precise Timing - Cause a Netherite Block to explode using TNT
 
 Piston moving blocks are always explodable
+
+*** TODO Staged - craft boat and clutch
+description:
+
+while not touching ground, craft a boat and get in a boat at least 20
+blocks below before touching the ground
+
+[[https://discord.com/channels/419383460600348673/738946989726760980/1483841153152581633][Discord]]
 
 *** DONE power a beacon with all mineral items
 
