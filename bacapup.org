@@ -225,14 +225,6 @@ Sonsch
 
 ** Other tasks
 
-*** TODO Remove advancement 'get raid of it'
-and delete any unneeded mixins or code related.
-
-*** TODO Rename mixins to match new mappings
-there are old names like ServerPlayerEntity from yarn mappings, before
-i migrated to official mappings (just ServerPlayer). much more stuff,
-im lazy for this.
-
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
 
@@ -243,6 +235,17 @@ it is already in farming tab.
 **** TODO Add missing new mobs/items to advancements
 
 *** TODO 'when pigs fly' should require death of the pig, not damage
+
+*** DONE Remove advancement 'get raid of it'
+and delete any unneeded mixins or code related.
+
+*** DONE Rename mixins to match new mappings
+:LOGBOOK:
+CLOCK: [2026-03-19 Thu 00:01]--[2026-03-19 Thu 00:10] =>  0:09
+:END:
+there are old names like ServerPlayerEntity from yarn mappings, before
+i migrated to official mappings (just ServerPlayer). much more stuff,
+im lazy for this.
 
 ** Suggestions
 Some advancement suggestions im still considering...
