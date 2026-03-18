@@ -107,7 +107,7 @@ silk touch makes this easy obv
 
 possibly add version forcing to not use silk touch, but less than 64
 
-*** TODO polyglot - own a parrot that speaks like every mob
+*** TODO polyglot - hear *your* parrots speak like every mob
 
 *** TODO intentional advancement design
 
