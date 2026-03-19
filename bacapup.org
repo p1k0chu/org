@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [38/53]
+** Advancements to do [39/53]
 Advancements that will be added.
 
 *** TODO Bedrock advancements [1/6]
@@ -98,7 +98,10 @@ silk touch makes this easy obv
 
 possibly add version forcing to not use silk touch, but less than 64
 
-*** TODO intentional advancement design
+*** DONE intentional advancement design
+:LOGBOOK:
+CLOCK: [2026-03-19 Thu 02:22]--[2026-03-19 Thu 02:44] =>  0:22
+:END:
 
 *** TODO Precise Timing - Cause a Netherite Block to explode using TNT
 
