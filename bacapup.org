@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [29/46]
+** Advancements to do [30/46]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -54,10 +54,6 @@ by xMrPolx
 *** TODO Creativity Is All I Need
 Use every banner pattern on one banner.
 (Building, after "Fuit of the Looms")
-by xMrPolx
-
-*** TODO Dehydration
-Dry a sponge in a furnace, but not without taking the water back.
 by xMrPolx
 
 *** TODO Justice but its an anvil
@@ -122,6 +118,10 @@ blocks below before touching the ground
 [[https://discord.com/channels/419383460600348673/738946989726760980/1483841153152581633][Discord]]
 
 *** TODO post tree tree farm
+
+*** DONE Dehydration
+Dry a sponge in a furnace, but not without taking the water back.
+by xMrPolx
 
 *** DONE polyglot - hear *your* parrots speak like every mob
 
