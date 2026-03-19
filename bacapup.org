@@ -3,10 +3,10 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [30/45]
+** Advancements to do [38/53]
 Advancements that will be added.
 
-*** TODO Bedrock advancements
+*** TODO Bedrock advancements [1/7]
 
 **** TODO Time for Stew - Give someone a suspicious stew.
 
@@ -30,6 +30,8 @@ Place 9 fully explored, adjacent map items into 9 item frames in a 3
 by 3 square.
 
 ***** TODO RENAME MAP
+**** DONE Where have you been?
+Receive a gift from a tamed cat in the morning.
 
 *** TODO maxing out the amount of banners renderable on a map.
 (40 or 400) banner markers. [[https://discord.com/channels/419383460600348673/738946989726760980/1471863779347402946][Discord]]
@@ -187,6 +189,12 @@ Befriend five wolves.
 
 *** DONE buy 1000 (or more) emerald from villagers
 
+*** DONE buy 200 (or more) emerald from villagers
+*** DONE buy 576 (or more) emerald from villagers
+*** DONE buy 15552 (or more) emerald from villagers
+*** DONE send one глглту in chat
+*** DONE send 50 глглту's in chat
+*** DONE send 200 глглту's in chat
 *** DONE Forged by Flesh
 Retrieve an iron ingot from a defeated zombie. by DCMii
 
@@ -217,6 +225,14 @@ Fill a map of 128x128 blocks with Red Concrete or Red Wool. by Iwer
 Sonsch
 
 *** DONE kill all mobs with anvil
+
+*** DONE Secret Supplies
+Acquire a potion of invisibility and milk bucket dropped from wandering traders
+
+by flame408_
+
+*** DONE A Meow Massages The Heart
+Receive every kind of gifts from your cat
 
 ** Other tasks
 
