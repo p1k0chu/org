@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [28/46]
+** Advancements to do [29/46]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -107,8 +107,6 @@ silk touch makes this easy obv
 
 possibly add version forcing to not use silk touch, but less than 64
 
-*** TODO polyglot - hear *your* parrots speak like every mob
-
 *** TODO intentional advancement design
 
 *** TODO Precise Timing - Cause a Netherite Block to explode using TNT
@@ -124,6 +122,8 @@ blocks below before touching the ground
 [[https://discord.com/channels/419383460600348673/738946989726760980/1483841153152581633][Discord]]
 
 *** TODO post tree tree farm
+
+*** DONE polyglot - hear *your* parrots speak like every mob
 
 *** DONE power a beacon with all mineral items
 
