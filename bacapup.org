@@ -6,9 +6,7 @@ is a bac addon
 ** Advancements to do [38/53]
 Advancements that will be added.
 
-*** TODO Bedrock advancements [1/7]
-
-**** TODO Time for Stew - Give someone a suspicious stew.
+*** TODO Bedrock advancements [1/6]
 
 **** TODO Smelt Everything - Connect 3 Chests to a single Furnace using 3 Hoppers.
 
