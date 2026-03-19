@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [30/46]
+** Advancements to do [30/45]
 Advancements that will be added.
 
 *** TODO Bedrock advancements
@@ -33,11 +33,6 @@ by 3 square.
 
 *** TODO maxing out the amount of banners renderable on a map.
 (40 or 400) banner markers. [[https://discord.com/channels/419383460600348673/738946989726760980/1471863779347402946][Discord]]
-
-*** TODO You Know This Game Has Open World, Right?
-stay in one chunk for a full duration
-
-**** TODO come up with duration
 
 *** TODO Shoulder pals
 Travel 100 blocks with two parrot on your shoulders.
@@ -253,6 +248,9 @@ im lazy for this.
 
 ** Suggestions
 Some advancement suggestions im still considering...
+
+*** You Know This Game Has Open World, Right?
+stay in one chunk for a full insert-a-duration-here
 
 *** Wikipedia
 Read the power signal of every possible block that can be read using a
