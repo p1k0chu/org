@@ -98,11 +98,6 @@ silk touch makes this easy obv
 
 possibly add version forcing to not use silk touch, but less than 64
 
-*** DONE intentional advancement design
-:LOGBOOK:
-CLOCK: [2026-03-19 Thu 02:22]--[2026-03-19 Thu 02:44] =>  0:22
-:END:
-
 *** TODO Precise Timing - Cause a Netherite Block to explode using TNT
 
 Piston moving blocks are always explodable
@@ -116,6 +111,11 @@ blocks below before touching the ground
 [[https://discord.com/channels/419383460600348673/738946989726760980/1483841153152581633][Discord]]
 
 *** TODO post tree tree farm
+
+*** DONE intentional advancement design
+:LOGBOOK:
+CLOCK: [2026-03-19 Thu 02:22]--[2026-03-19 Thu 02:44] =>  0:22
+:END:
 
 *** DONE Dehydration
 Dry a sponge in a furnace, but not without taking the water back.
