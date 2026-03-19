@@ -6,9 +6,7 @@ is a bac addon
 ** Advancements to do [39/53]
 Advancements that will be added.
 
-*** TODO Bedrock advancements [1/6]
-
-**** TODO Smelt Everything - Connect 3 Chests to a single Furnace using 3 Hoppers.
+*** TODO Bedrock advancements [2/6]
 
 **** TODO Freight Station - Use a Hopper to move an item from a Chest Minecart to a Chest.
 
@@ -28,6 +26,11 @@ Place 9 fully explored, adjacent map items into 9 item frames in a 3
 by 3 square.
 
 ***** TODO RENAME MAP
+**** DONE Smelt Everything - Connect 3 Chests to a single Furnace using 3 Hoppers.
+:LOGBOOK:
+CLOCK: [2026-03-19 Thu 03:08]--[2026-03-19 Thu 03:29] =>  0:21
+:END:
+
 **** DONE Where have you been?
 Receive a gift from a tamed cat in the morning.
 
@@ -237,6 +240,8 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
+*** TODO fix newlines in bacapup command for stats
+
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
 
@@ -251,6 +256,12 @@ it is already in farming tab.
 *** TODO move some lists of items/mobs to separate *Constants classes
 those are in fact constants, and putting them all into one package
 helps with managing/updating them
+
+*** DONE put function and advancements generation together, to avoid repeating code
+currently trophy needs the name of the adv for its lore, putting it
+all into one generator would be better.
+
+*** DONE fix translation when mod is not installed on client
 
 *** DONE Remove advancement 'get raid of it'
 and delete any unneeded mixins or code related.
