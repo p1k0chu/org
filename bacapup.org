@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [39/53]
+** Advancements to do [39/55]
 Advancements that will be added.
 
 *** TODO Bedrock advancements [2/6]
@@ -114,6 +114,15 @@ blocks below before touching the ground
 [[https://discord.com/channels/419383460600348673/738946989726760980/1483841153152581633][Discord]]
 
 *** TODO post tree tree farm
+
+*** TODO go back to your last death location and plant a wither rose
+[[https://discord.com/channels/419383460600348673/738946989726760980/1365469401570345072][Discord]]
+
+*** TODO did you not recognize me? - let the piglin kill the zombified piglin
+[[https://discord.com/channels/419383460600348673/738946989726760980/1128114176724848791][Discord]]
+
+you have to get piglin to aggro on you and stand behing zombie piglin,
+when piglin kills it the player its aggroed on gets the advancement
 
 *** DONE intentional advancement design
 :LOGBOOK:
@@ -390,9 +399,6 @@ Throw a wind charge to activate a dispenser that shoots you with a wind charge b
 
 [[https://discord.com/channels/419383460600348673/738946989726760980/1411778195153490061][Discord]]
 
-*** go back to your last death location and plant a wither rose
-[[https://discord.com/channels/419383460600348673/738946989726760980/1365469401570345072][Discord]]
-
 *** 4 chicken from thrown egg
 [[https://discord.com/channels/419383460600348673/1253056034004799655/1305169376902647818][Discord]]
 
@@ -403,12 +409,6 @@ create an infinite loop by feeding gold nuggets from a gold ingot autocrafter in
 
 *** Airplane Mode - Send a chat message while falling
 [[https://discord.com/channels/419383460600348673/738946989726760980/1130218532257406986][Discord]]
-
-*** did you not recognize me? - let the piglin kill the zombified piglin
-[[https://discord.com/channels/419383460600348673/738946989726760980/1128114176724848791][Discord]]
-
-you have to get piglin to aggro on you and stand behing zombie piglin,
-when piglin kills it the player its aggroed on gets the advancement
 
 *** zombie break door.
 
