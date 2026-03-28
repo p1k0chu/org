@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [39/55]
+** Advancements to do [39/56]
 Advancements that will be added.
 
 *** TODO Bedrock advancements [2/6]
@@ -123,6 +123,9 @@ blocks below before touching the ground
 
 you have to get piglin to aggro on you and stand behing zombie piglin,
 when piglin kills it the player its aggroed on gets the advancement
+
+*** TODO No u - have a breeze deflect your projectile
+[[https://discord.com/channels/419383460600348673/1366124720306786406/1487237724573270139][discord]]
 
 *** DONE intentional advancement design
 :LOGBOOK:
@@ -249,7 +252,7 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
-*** TODO fix newlines in bacapup command for stats
+*** DONE fix newlines in bacapup command for stats
 
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
