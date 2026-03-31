@@ -3,7 +3,7 @@ is a bac addon
 
 [[https://discord.com/channels/419383460600348673/1366124720306786406][Discord thread]], [[https://github.com/p1k0chu/BACAP-Unlocked-Potential][Github repository]]
 
-** Advancements to do [39/56]
+** Advancements to do [40/56]
 Advancements that will be added.
 
 *** TODO Bedrock advancements [2/6]
@@ -115,9 +115,6 @@ blocks below before touching the ground
 
 *** TODO post tree tree farm
 
-*** TODO go back to your last death location and plant a wither rose
-[[https://discord.com/channels/419383460600348673/738946989726760980/1365469401570345072][Discord]]
-
 *** TODO did you not recognize me? - let the piglin kill the zombified piglin
 [[https://discord.com/channels/419383460600348673/738946989726760980/1128114176724848791][Discord]]
 
@@ -126,6 +123,9 @@ when piglin kills it the player its aggroed on gets the advancement
 
 *** TODO No u - have a breeze deflect your projectile
 [[https://discord.com/channels/419383460600348673/1366124720306786406/1487237724573270139][discord]]
+
+*** DONE go back to your last death location and plant a wither rose
+[[https://discord.com/channels/419383460600348673/738946989726760980/1365469401570345072][Discord]]
 
 *** DONE intentional advancement design
 :LOGBOOK:
