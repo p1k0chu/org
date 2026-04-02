@@ -252,6 +252,10 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
+*** TODO use data attachments instead of saved data
+
+*** TODO debloat gradle build script
+
 *** DONE fix newlines in bacapup command for stats
 
 *** TODO move this is not cookie clicker to FarmingTabGenerator
