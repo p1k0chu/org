@@ -252,11 +252,89 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
+*** TODO write game tests for every advancement [4/40]
+
+**** TODO Secret Supplies
+
+**** TODO Where have you been?
+
+**** TODO Plethora of Cats
+
+**** TODO A Meow Massages The Heart
+
+**** TODO Do It For The Frame
+
+**** TODO Maximum Coverage
+
+**** TODO Paint it, red
+
+**** TODO Disenchanted
+
+**** TODO Alternative Fuel
+
+**** TODO Super Fuel
+
+**** TODO Dehydration
+
+**** TODO Leafterally
+
+**** TODO Emerald Portfolio
+
+**** TODO The Stock Market
+
+**** TODO Small Business
+
+**** TODO Small Indie Company
+
+**** TODO глглту
+
+**** TODO глглту cult
+
+**** TODO You Can Mute Me, But You Can't Mute глглту
+
+**** TODO Forged by Flesh
+
+**** TODO Dragon 2.0
+
+**** TODO Dog Army
+
+**** TODO Can you hear it from here?
+
+**** TODO Fire Trick
+
+**** TODO Mob Flattener 9000
+
+**** TODO Master Archeologist
+
+**** TODO Extreme Break Risk
+
+**** TODO This Is Not Cookie Clicker
+
+**** TODO Short Circuit
+
+**** TODO Conduel
+
+**** TODO Rage Baiter
+
+**** TODO Thanos Beacon
+
+**** TODO Polyglot
+
+**** TODO Intentional Advancement Design
+
+**** TODO Smelt Everything
+
+**** TODO R.I.P
+
+**** DONE When Pigs Fly
+
+**** DONE Beam Me Up
+
+**** DONE Trash Bin
+
+**** DONE Wololo
+
 *** TODO use data attachments instead of saved data
-
-*** TODO debloat gradle build script
-
-*** DONE fix newlines in bacapup command for stats
 
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
@@ -272,6 +350,10 @@ it is already in farming tab.
 *** TODO move some lists of items/mobs to separate *Constants classes
 those are in fact constants, and putting them all into one package
 helps with managing/updating them
+
+*** DONE debloat gradle build script
+
+*** DONE fix newlines in bacapup command for stats
 
 *** DONE put function and advancements generation together, to avoid repeating code
 currently trophy needs the name of the adv for its lore, putting it
