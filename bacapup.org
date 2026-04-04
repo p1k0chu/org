@@ -347,7 +347,7 @@ it is already in farming tab.
 
 *** TODO 'when pigs fly' should require death of the pig, not damage
 
-*** TODO move some lists of items/mobs to separate *Constants classes
+*** DONE move some lists of items/mobs to separate *Constants classes
 those are in fact constants, and putting them all into one package
 helps with managing/updating them
 
