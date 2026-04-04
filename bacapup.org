@@ -339,13 +339,13 @@ Receive every kind of gifts from your cat
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
 
-*** TODO Update from 1.21.5 to 1.21.11
+*** TODO 'when pigs fly' should require death of the pig, not damage
+
+*** DONE Update from 1.21.5 to 1.21.11
 
 **** DONE Update mod
 
-**** TODO Add missing new mobs/items to advancements
-
-*** TODO 'when pigs fly' should require death of the pig, not damage
+**** DONE Add missing new mobs/items to advancements
 
 *** DONE move some lists of items/mobs to separate *Constants classes
 those are in fact constants, and putting them all into one package
