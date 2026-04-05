@@ -252,77 +252,27 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
-*** TODO write game tests for every advancement [4/40]
+*** TODO write game tests [4/15]
 
-**** TODO Secret Supplies
+**** TODO mob flattener 9000
 
-**** TODO Where have you been?
+**** TODO shooting a bell from 50 blocks away
 
-**** TODO Plethora of Cats
+**** TODO fire trick
 
-**** TODO A Meow Massages The Heart
+**** TODO test villager trading
 
-**** TODO Do It For The Frame
+**** TODO master archeologist
 
-**** TODO Maximum Coverage
+**** TODO short curcuit
 
-**** TODO Paint it, red
+**** TODO conduel
 
-**** TODO Disenchanted
+**** TODO rage baiter
 
-**** TODO Alternative Fuel
+**** TODO intentional advancement design
 
-**** TODO Super Fuel
-
-**** TODO Dehydration
-
-**** TODO Leafterally
-
-**** TODO Emerald Portfolio
-
-**** TODO The Stock Market
-
-**** TODO Small Business
-
-**** TODO Small Indie Company
-
-**** TODO глглту
-
-**** TODO глглту cult
-
-**** TODO You Can Mute Me, But You Can't Mute глглту
-
-**** TODO Forged by Flesh
-
-**** TODO Dragon 2.0
-
-**** TODO Dog Army
-
-**** TODO Can you hear it from here?
-
-**** TODO Fire Trick
-
-**** TODO Mob Flattener 9000
-
-**** TODO Master Archeologist
-
-**** TODO Extreme Break Risk
-
-**** TODO This Is Not Cookie Clicker
-
-**** TODO Short Circuit
-
-**** TODO Conduel
-
-**** TODO Rage Baiter
-
-**** TODO Thanos Beacon
-
-**** TODO Polyglot
-
-**** TODO Intentional Advancement Design
-
-**** TODO Smelt Everything
+**** TODO smelt everything
 
 **** TODO R.I.P
 
@@ -339,7 +289,7 @@ Receive every kind of gifts from your cat
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
 
-*** TODO 'when pigs fly' should require death of the pig, not damage
+*** DONE 'when pigs fly' should require death of the pig, not damage
 
 *** DONE Update from 1.21.5 to 1.21.11
 
