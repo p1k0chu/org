@@ -252,17 +252,11 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
-*** TODO write game tests [4/15]
+*** TODO write game tests [7/15]
 
 **** TODO mob flattener 9000
 
-**** TODO shooting a bell from 50 blocks away
-
-**** TODO fire trick
-
 **** TODO test villager trading
-
-**** TODO master archeologist
 
 **** TODO short curcuit
 
@@ -276,6 +270,12 @@ Receive every kind of gifts from your cat
 
 **** TODO R.I.P
 
+**** DONE master archeologist
+
+**** DONE fire trick
+
+**** DONE shooting a bell from 50 blocks away
+
 **** DONE When Pigs Fly
 
 **** DONE Beam Me Up
@@ -288,6 +288,8 @@ Receive every kind of gifts from your cat
 
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
+
+*** TODO fix mob flattener 9000
 
 *** DONE 'when pigs fly' should require death of the pig, not damage
 
