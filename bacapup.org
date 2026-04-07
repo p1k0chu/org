@@ -43,8 +43,6 @@ by Redpid42
 
 *** TODO Use 5 totems within 10 seconds
 
-*** TODO use every fuel in a furnace
-
 *** TODO I Am Speed
 travel 1,000 blocks in a boat on blue ice in the Nether
 by xMrPolx
@@ -252,44 +250,8 @@ Receive every kind of gifts from your cat
 
 ** Other tasks
 
-*** TODO write game tests [7/15]
-
-**** TODO mob flattener 9000
-
-**** TODO test villager trading
-
-**** TODO short curcuit
-
-**** TODO conduel
-
-**** TODO rage baiter
-
-**** TODO intentional advancement design
-
-**** TODO smelt everything
-
-**** TODO R.I.P
-
-**** DONE master archeologist
-
-**** DONE fire trick
-
-**** DONE shooting a bell from 50 blocks away
-
-**** DONE When Pigs Fly
-
-**** DONE Beam Me Up
-
-**** DONE Trash Bin
-
-**** DONE Wololo
-
-*** TODO use data attachments instead of saved data
-
 *** TODO move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
-
-*** TODO fix mob flattener 9000
 
 *** DONE 'when pigs fly' should require death of the pig, not damage
 
@@ -326,6 +288,8 @@ im lazy for this.
 
 ** Suggestions
 Some advancement suggestions im still considering...
+
+*** use every fuel in a furnace
 
 *** Shit Archaeologist - break a sus block
 
