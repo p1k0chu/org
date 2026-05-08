@@ -252,12 +252,12 @@ Receive every kind of gifts from your cat
 
 *** TODO support multiple versions of mc (optional?)
 
-*** TODO do this when 0.8
+*** DONE do this when 0.8
 
-**** TODO move this is not cookie clicker to FarmingTabGenerator
+**** DONE move this is not cookie clicker to FarmingTabGenerator
 it is already in farming tab.
 
-**** TODO fix the package and inconsistent mod id
+**** DONE fix the package and inconsistent mod id
 
 *** DONE 'when pigs fly' should require death of the pig, not damage
 
